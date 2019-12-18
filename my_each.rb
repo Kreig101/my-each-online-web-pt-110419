@@ -6,5 +6,4 @@ while i < words.length
 end
 return words
 end
-
-my_each(words) 
+ 
